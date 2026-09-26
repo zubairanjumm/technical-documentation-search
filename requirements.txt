@@ -1,0 +1,4 @@
+chromadb
+google-genai
+python-dotenv
+pytest
